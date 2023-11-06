@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+<img width="797" alt="image" src="https://github.com/turgutguvenc/Step-Mechanism/assets/63226091/ce22f252-baf6-4248-a16e-f144b7b23b1b">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
@@ -68,3 +68,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+credentials: https://www.udemy.com/course/the-ultimate-react-course/learn/lecture/37350604#overview
